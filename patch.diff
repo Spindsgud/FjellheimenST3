@@ -1,0 +1,22 @@
+From 3bad76e9dda1c82355ee2769a22eae7ee91f7fa6 Mon Sep 17 00:00:00 2001
+From: Myaskill <magnus.enar.myrvang@gmail.com>
+Date: Tue, 5 Nov 2019 03:36:00 +0100
+Subject: [PATCH] no message
+
+---
+ TestFile.avi | 3 ---
+ 1 file changed, 3 deletions(-)
+ delete mode 100644 TestFile.avi
+
+diff --git a/TestFile.avi b/TestFile.avi
+deleted file mode 100644
+index 9d6d71d..0000000
+--- a/TestFile.avi
++++ /dev/null
+@@ -1,3 +0,0 @@
+-version https://git-lfs.github.com/spec/v1
+-oid sha256:df8e3ba9193b67b1a4e188fff35c3ddce1dbe57877536de1b51ec85bc49e53fd
+-size 245708898
+-- 
+2.21.0.windows.1
+
